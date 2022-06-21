@@ -13,4 +13,4 @@ A machine learning approach to detect Denial of Service attack and block the sou
 
 # Deployment
 
-- Run the capture.py in the server machine
+- Run the capture.py in the server
