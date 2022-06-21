@@ -4,7 +4,7 @@ A machine learning approach to detect Denial of Service attack and block the sou
 
 # Dataset
 
-- [KDDCup99 Dataset](http://kdd.ics.uci.edu/databases/kddcup99/)
+- [KDDCUP99 Dataset](http://kdd.ics.uci.edu/databases/kddcup99/)
 
 
 # Training
